@@ -72,9 +72,3 @@ conversion efficiency, and marketing effectiveness.
 3. (Optional) Load data into MySQL using provided SQL scripts
 4. Refresh the Power BI report
 
----
-
-## 👤 Author
-**NANDHA GOPAL R**  
-Aspiring Data Analyst | Power BI | SQL | Python
-
